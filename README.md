@@ -21,7 +21,8 @@ A quick overview of the React/Next.js projects I’ve built, with short descript
    Preview: https://react-view-zustand-simple-project.vercel.app/
 
 5. **Portfolio (Personal) – Next.js + TypeScript**  
-   Personal portfolio with reusable components and consistent styling. Preview aligns with the links above.
+   Personal portfolio with reusable components and consistent styling.  
+   Preview: https://portofolio-new-psi-green.vercel.app/
 
 ## Core Technologies
 
